@@ -1,14 +1,14 @@
 {
-  "version": "1.3.5",
-  "build": "146",
-  "name": "Codex One 1.3.5",
-  "notes": "\u8c03\u6574 Codex One \u4e3b\u754c\u9762\u9876\u90e8\u5e03\u5c40\uff1a\u5c06 Codex One \u6587\u5b57 logo \u79fb\u5230\u5de6\u4fa7\u5e76\u4e0e\u8d26\u53f7\u6c60\u533a\u57df\u5bf9\u9f50\uff1b\u53f3\u4fa7\u6539\u4e3a\u65e0\u80cc\u666f\u4ea7\u54c1\u5e7f\u544a\u4f4d\uff1b\u653e\u5f00\u8be6\u60c5\u9875\u56fa\u5b9a\u5bbd\u5ea6\u9650\u5236\uff0c\u8ba9\u53f3\u4fa7\u5185\u5bb9\u8fb9\u8ddd\u4e0e\u5de6\u4fa7\u66f4\u4e00\u81f4\uff1b\u4fdd\u7559 1.3.4 \u5df2\u5b8c\u6210\u7684\u81ea\u52a8\u66f4\u65b0\u53d1\u73b0\u3001\u53f3\u4e0b\u89d2\u95ea\u70c1\u66f4\u65b0\u6309\u94ae\u3001macOS \u901a\u77e5\u66f4\u65b0\u52a8\u4f5c\u548c\u83dc\u5355\u680f\u624b\u52a8\u68c0\u67e5\u66f4\u65b0\u5165\u53e3\u3002",
-  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.3.5",
+  "version": "1.3.6",
+  "build": "147",
+  "name": "Codex One 1.3.6",
+  "notes": "\u91cd\u6784\u8d26\u53f7\u4fe1\u606f\u5c55\u793a\uff1a\u70b9\u51fb\u8d26\u53f7\u540e\u5728\u5de6\u4fa7\u8d26\u53f7\u884c\u4e0b\u65b9\u5c55\u5f00 5 \u5c0f\u65f6\u30011 \u5468\u3001\u91cd\u7f6e\u6b21\u6570\u548c\u7f16\u8f91\u5165\u53e3\uff1b\u8d26\u53f7\u53f3\u4fa7\u80f6\u56ca\u65c1\u589e\u52a0\u5706\u5f62\u5207\u6362/\u5173\u95ed\u64cd\u4f5c\uff1b\u53f3\u4fa7\u4e3b\u8be6\u60c5\u533a\u4e0d\u518d\u5c55\u793a\u8d26\u53f7\u5927\u5361\u7247\uff0c\u4ec5\u5728\u9009\u4e2d\u5b9e\u4f8b\u6c60\u5b9e\u4f8b\u65f6\u663e\u793a\u5b9e\u4f8b\u8be6\u60c5\uff1b\u4fdd\u7559\u9876\u90e8 logo \u5de6\u5bf9\u9f50\u548c\u65e0\u80cc\u666f\u5e7f\u544a\u4f4d\u5e03\u5c40\u3002",
+  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.3.6",
   "min_system_version": "14.0",
   "asset": {
-    "name": "CodexOne-1.3.5.zip",
-    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.3.5/CodexOne-1.3.5.zip",
-    "sha256": "fb479b7ce2785b07203b16324f009ca045fac980244ce9fed4fb082f3d14e2a9",
-    "size": 7547757
+    "name": "CodexOne-1.3.6.zip",
+    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.3.6/CodexOne-1.3.6.zip",
+    "sha256": "85fe69be3356e8fe02f738efd3c4405f2ceeda16118a06f0fb482373791da3b0",
+    "size": 7524011
   }
 }
