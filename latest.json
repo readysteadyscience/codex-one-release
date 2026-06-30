@@ -1,14 +1,14 @@
 {
-  "version": "1.4.8",
-  "build": "159",
-  "name": "Codex One 1.4.8",
-  "notes": "\u4fee\u590d Codex Claude Hub\uff1a\u4e2d\u8f6c\u7ad9\u9a8c\u8bc1\u4e0e\u8fd0\u884c\u6539\u7531 Codex One \u672c\u5730\u9002\u914d\u5668\u8fde\u63a5 /v1/chat/completions\uff1b\u4fdd\u7559 /v1/models \u81ea\u52a8\u83b7\u53d6\u6a21\u578b\u5217\u8868\uff1bAPI Key \u8f93\u5165\u6846\u6539\u4e3a\u53ef\u76f4\u63a5\u66ff\u6362\uff0c\u5df2\u4fdd\u5b58 Key \u53ea\u4f5c\u4e3a\u63d0\u793a\u663e\u793a\u3002",
-  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.8",
+  "version": "1.4.9",
+  "build": "160",
+  "name": "Codex One 1.4.9",
+  "notes": "\u4fee\u590d Codex Claude Hub\uff1a\u4e3a\u7b2c\u4e09\u65b9\u4e2d\u8f6c\u7ad9\u6a21\u578b\u76ee\u5f55\u8865\u9f50 ChatGPT \u8d26\u53f7\u8ba1\u5212\u53ef\u7528\u6027\u5b57\u6bb5\uff0c\u907f\u514d Opus 4.8 / thinking \u7b49 relay \u6a21\u578b\u88ab Codex \u8bef\u5224\u4e3a\u5f53\u524d ChatGPT \u8d26\u53f7\u4e0d\u652f\u6301\u3002",
+  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.9",
   "min_system_version": "14.0",
   "asset": {
-    "name": "CodexOne-1.4.8.zip",
-    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.8/CodexOne-1.4.8.zip",
-    "sha256": "abf0ab88ca1b0b5582a579554c716af23754782a038fb30ce849515a0db40d03",
-    "size": 7574951
+    "name": "CodexOne-1.4.9.zip",
+    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.9/CodexOne-1.4.9.zip",
+    "sha256": "ecce016b3cfc28d38d2a16812c5735d6d2b9014a40dfe68aa041d6787bae90d2",
+    "size": 7574989
   }
 }
