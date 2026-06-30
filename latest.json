@@ -1,14 +1,14 @@
 {
-  "version": "1.3.9",
-  "build": "150",
-  "name": "Codex One 1.3.9",
-  "notes": "\u81ea\u52a8\u66f4\u65b0\u5012\u8ba1\u65f6\uff1aCodex One \u53d1\u73b0\u65b0\u7248\u672c\u540e\u9ed8\u8ba4\u5728\u53f3\u4e0b\u89d2\u66f4\u65b0\u5165\u53e3\u663e\u793a 5 \u79d2\u5012\u8ba1\u65f6\uff0c\u5e76\u81ea\u52a8\u4e0b\u8f7d\u3001\u5b89\u88c5\u548c\u91cd\u542f\uff1b\u5df2\u6253\u5f00\u7684 Codex \u7a97\u53e3\u4e0d\u53d7 Codex One \u91cd\u542f\u5f71\u54cd\u3002\u8bbe\u7f6e\u9875\u65b0\u589e\u201c\u81ea\u52a8\u5b89\u88c5 Codex One \u66f4\u65b0\u201d\u5f00\u5173\uff0c\u9ed8\u8ba4\u5f00\u542f\uff0c\u5173\u95ed\u540e\u4ecd\u53ef\u624b\u52a8\u66f4\u65b0\u3002",
-  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.3.9",
+  "version": "1.4.0",
+  "build": "151",
+  "name": "Codex One 1.4.0",
+  "notes": "Codex One 1.4.0 update.",
+  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.0",
   "min_system_version": "14.0",
   "asset": {
-    "name": "CodexOne-1.3.9.zip",
-    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.3.9/CodexOne-1.3.9.zip",
-    "sha256": "9859db4b64a7d43662fd9c159f0a3ac035153c44afaf3438e879eece21e13813",
-    "size": 7558238
+    "name": "CodexOne-1.4.0.zip",
+    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.0/CodexOne-1.4.0.zip",
+    "sha256": "b3872450c84fb7d8d3c4649d73111db2c9e32e43b51ab4b3cf0374e8a976969a",
+    "size": 7583833
   }
 }
