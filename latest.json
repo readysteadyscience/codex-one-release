@@ -1,14 +1,14 @@
 {
-  "version": "1.4.1",
-  "build": "152",
-  "name": "Codex One 1.4.1",
-  "notes": "Fix background update polling so Codex One discovers and starts the update countdown even when it is not the active foreground app.",
-  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.1",
+  "version": "1.4.2",
+  "build": "153",
+  "name": "Codex One 1.4.2",
+  "notes": "\u4e3b\u9875\u9762\u91cd\u6784\u4e3a\u8d26\u53f7\u8c03\u5ea6\u9996\u9875\uff1a\u4e0a\u65b9\u4ea7\u54c1\u5c55\u793a\u533a\uff0c\u4e0b\u65b9\u6a2a\u5411\u8d26\u53f7\u7f51\u683c\uff0c\u51cf\u5c11\u5b9e\u4f8b\u53f0\u62c6\u5206\u540e\u7684\u7a7a\u767d\u3002",
+  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.2",
   "min_system_version": "14.0",
   "asset": {
-    "name": "CodexOne-1.4.1.zip",
-    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.1/CodexOne-1.4.1.zip",
-    "sha256": "3d5390bde2bb911e798d26773242c04097afa62db236754610fcb2491449c1b8",
-    "size": 7585281
+    "name": "CodexOne-1.4.2.zip",
+    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.2/CodexOne-1.4.2.zip",
+    "sha256": "d1547598a0cf8df62d35247a9aa42d96f6f3265bca08e173fc48d72cccd107d1",
+    "size": 7328033
   }
 }
