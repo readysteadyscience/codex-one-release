@@ -1,14 +1,14 @@
 {
-  "version": "1.3.8",
-  "build": "149",
-  "name": "Codex One 1.3.8",
-  "notes": "\u76ae\u80a4\u6a21\u5757\u4e0e\u4ea4\u4e92\u52a8\u6548\uff1a\u65b0\u589e\u76ae\u80a4\u6a21\u5757\u5165\u53e3\u4e0e\u72ec\u7acb\u9875\u9762\uff0c\u5f53\u524d\u4fdd\u6301\u9ed8\u8ba4\u76ae\u80a4\u5e76\u9884\u7559\u5b98\u65b9\u76ae\u80a4 catalog\uff1b\u4e3a\u5e95\u90e8 Dock\u3001\u73bb\u7483\u6309\u94ae\u3001\u8d26\u53f7\u64cd\u4f5c\u6309\u94ae\u3001\u8be6\u60c5\u52a8\u4f5c\u6309\u94ae\u548c\u72b6\u6001\u80f6\u56ca\u589e\u52a0 hover/\u6309\u538b\u52a8\u6001\u6548\u679c\uff0c\u8ba9\u6309\u94ae\u4e0e\u6307\u793a\u80f6\u56ca\u66f4\u6709\u53cd\u9988\u3002",
-  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.3.8",
+  "version": "1.3.9",
+  "build": "150",
+  "name": "Codex One 1.3.9",
+  "notes": "\u81ea\u52a8\u66f4\u65b0\u5012\u8ba1\u65f6\uff1aCodex One \u53d1\u73b0\u65b0\u7248\u672c\u540e\u9ed8\u8ba4\u5728\u53f3\u4e0b\u89d2\u66f4\u65b0\u5165\u53e3\u663e\u793a 5 \u79d2\u5012\u8ba1\u65f6\uff0c\u5e76\u81ea\u52a8\u4e0b\u8f7d\u3001\u5b89\u88c5\u548c\u91cd\u542f\uff1b\u5df2\u6253\u5f00\u7684 Codex \u7a97\u53e3\u4e0d\u53d7 Codex One \u91cd\u542f\u5f71\u54cd\u3002\u8bbe\u7f6e\u9875\u65b0\u589e\u201c\u81ea\u52a8\u5b89\u88c5 Codex One \u66f4\u65b0\u201d\u5f00\u5173\uff0c\u9ed8\u8ba4\u5f00\u542f\uff0c\u5173\u95ed\u540e\u4ecd\u53ef\u624b\u52a8\u66f4\u65b0\u3002",
+  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.3.9",
   "min_system_version": "14.0",
   "asset": {
-    "name": "CodexOne-1.3.8.zip",
-    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.3.8/CodexOne-1.3.8.zip",
-    "sha256": "c6821a99e38345b753e53d5df5ffad7324981aaa0b31cc8d2706dcd6c30dc0bf",
-    "size": 7553862
+    "name": "CodexOne-1.3.9.zip",
+    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.3.9/CodexOne-1.3.9.zip",
+    "sha256": "9859db4b64a7d43662fd9c159f0a3ac035153c44afaf3438e879eece21e13813",
+    "size": 7558238
   }
 }
