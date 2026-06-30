@@ -1,14 +1,14 @@
 {
-  "version": "1.4.5",
-  "build": "156",
-  "name": "Codex One 1.4.5",
-  "notes": "\u65b0\u589e Codex Claude Hub \u5b98\u65b9\u5b9e\u4f8b\u6a21\u677f\uff1a\u7528\u6237\u81ea\u586b\u7b2c\u4e09\u65b9\u4e2d\u8f6c\u7ad9 Base URL\u3001API Key \u4e0e\u6a21\u578b ID\uff0cCodex One \u53ea\u8d1f\u8d23\u80fd\u529b\u8d26\u53f7\u3001\u672c\u5730\u9002\u914d\u5668\u4e0e\u72ec\u7acb\u5b9e\u4f8b\u901a\u8def\uff1b\u4fee\u590d\u8d26\u53f7\u8c03\u5ea6\u771f\u5b9e\u81ea\u68c0\u8bef\u8d70\u4e3b\u8d26\u53f7\u8def\u7531\uff1b\u5b9e\u4f8b\u66f4\u65b0\u6309\u94ae\u663e\u793a\u9010\u4e2a\u5b9e\u4f8b\u540c\u6b65\u8fdb\u5ea6\u3002",
-  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.5",
+  "version": "1.4.6",
+  "build": "157",
+  "name": "Codex One 1.4.6",
+  "notes": "\u4fee\u590d Codex Claude Hub \u4e2d\u8f6c\u7ad9\u63a5\u5165\uff1a\u6309\u5b98\u65b9\u6587\u6863\u4f18\u5148\u4f7f\u7528 /v1/responses\uff1b\u7528\u6237\u586b\u5199\u6839\u57df\u540d\u65f6\u81ea\u52a8\u89c4\u8303\u4e3a /v1\uff1b\u4fdd\u5b58\u548c\u542f\u52a8\u65f6\u4e0d\u518d\u7528\u793a\u4f8b Base URL \u8986\u76d6\u7528\u6237\u586b\u5199\u7684\u4e2d\u8f6c\u7ad9\u5730\u5740\u3002",
+  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.6",
   "min_system_version": "14.0",
   "asset": {
-    "name": "CodexOne-1.4.5.zip",
-    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.5/CodexOne-1.4.5.zip",
-    "sha256": "72b98599ec1b6d1ff76656151a89c16975a562b1a707b4251a613f87a80b2e04",
-    "size": 7551746
+    "name": "CodexOne-1.4.6.zip",
+    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.6/CodexOne-1.4.6.zip",
+    "sha256": "13becfd73484cd7d544eebcee0af95b1f1ead10a33d2254d439b7b67b74d9161",
+    "size": 7552278
   }
 }
