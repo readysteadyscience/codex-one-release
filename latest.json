@@ -1,14 +1,14 @@
 {
-  "version": "1.4.3",
-  "build": "154",
-  "name": "Codex One 1.4.3",
-  "notes": "账号调度增加真实自检：可用隔离 worker 跑 READY 任务并显示 exit code 与失败原因；首页账号网格与顶部布局进一步压缩对齐；更新检测轮询加快。",
-  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.3",
+  "version": "1.4.5",
+  "build": "156",
+  "name": "Codex One 1.4.5",
+  "notes": "\u65b0\u589e Codex Claude Hub \u5b98\u65b9\u5b9e\u4f8b\u6a21\u677f\uff1a\u7528\u6237\u81ea\u586b\u7b2c\u4e09\u65b9\u4e2d\u8f6c\u7ad9 Base URL\u3001API Key \u4e0e\u6a21\u578b ID\uff0cCodex One \u53ea\u8d1f\u8d23\u80fd\u529b\u8d26\u53f7\u3001\u672c\u5730\u9002\u914d\u5668\u4e0e\u72ec\u7acb\u5b9e\u4f8b\u901a\u8def\uff1b\u4fee\u590d\u8d26\u53f7\u8c03\u5ea6\u771f\u5b9e\u81ea\u68c0\u8bef\u8d70\u4e3b\u8d26\u53f7\u8def\u7531\uff1b\u5b9e\u4f8b\u66f4\u65b0\u6309\u94ae\u663e\u793a\u9010\u4e2a\u5b9e\u4f8b\u540c\u6b65\u8fdb\u5ea6\u3002",
+  "release_url": "https://github.com/readysteadyscience/codex-one-release/releases/tag/v1.4.5",
   "min_system_version": "14.0",
   "asset": {
-    "name": "CodexOne-1.4.3.zip",
-    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.3/CodexOne-1.4.3.zip",
-    "sha256": "a429a5812caafcc505c15c233dfaae01cadc1f4353d82890760de718e9d4ad65",
-    "size": 7546865
+    "name": "CodexOne-1.4.5.zip",
+    "url": "https://github.com/readysteadyscience/codex-one-release/releases/download/v1.4.5/CodexOne-1.4.5.zip",
+    "sha256": "72b98599ec1b6d1ff76656151a89c16975a562b1a707b4251a613f87a80b2e04",
+    "size": 7551746
   }
 }
